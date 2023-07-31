@@ -4,3 +4,5 @@ In this repository there are solutions to tasks from the programming Basics cour
 SoftUni University - https://softuni.bg/
 
 Online judge system - https://judge.softuni.org/
+
+![image](https://github.com/AlexanderBedrosyan/Programming-Basics-with-Python/assets/126572116/dbb13c70-ed40-4ce3-9474-3fef740906ba)
